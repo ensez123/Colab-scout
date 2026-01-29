@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ensez123/Colab-scout/blob/main/Untitled0.ipynb)
+
 # Colab-scout: Veri Odaklı Futbol Scouting Sistemi
 
 Bu proje, Google Colab ortamında geliştirilmiş, veri madenciliği ve makine öğrenmesi tekniklerini kullanan kapsamlı bir futbolcu izleme (scouting) ve analiz sistemidir.
